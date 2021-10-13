@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">2301869512_SeptatrivantoWandy</string>
+
+    <string-array name="types">
+        <item>Pick a type</item>
+        <item>Shirt</item>
+        <item>Pants</item>
+        <item>Hat</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>Pick a color</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="size">
+        <item>Pick a size</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+
+    </string-array>
+
+</resources>
